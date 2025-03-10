@@ -1,0 +1,12 @@
+/public
+resources/
+node_modules/
+package-lock.json
+.hugo_build.lock
+# 自动生成的文件
+public
+resources
+.hugo_build.lock
+
+# hugo命令
+hugo.exe
