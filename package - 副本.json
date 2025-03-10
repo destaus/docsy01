@@ -162,8 +162,6 @@
     "postcss-load-config": "^5.1.0",
     "postcss-reporter": "^7.1.0",
     "postcss-value-parser": "^4.2.0",
-    "postcss": "^8.5.3",
-    "postcss-cli": "^11.0.0",
     "pretty-hrtime": "^1.0.3",
     "process-nextick-args": "^2.0.1",
     "queue-microtask": "^1.2.3",
