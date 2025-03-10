@@ -237,13 +237,5 @@
   "prettier": {
     "proseWrap": "always",
     "singleQuote": true
-  },
-  "postcss": {
-    "parser": "sugarss",
-    "map": false,
-    "plugins": {
-      "postcss-plugin": {}
-    }
-}
-  
+  }
 }
