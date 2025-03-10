@@ -39,7 +39,7 @@
     "postbuild:production": "npm run _check:links",
     "serve": "npm run _serve",
     "test": "npm run check:links",
-    "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
+    "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest postcss@latest",
     "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
     "update:pkgs": "npx npm-check-updates -u"
   },
